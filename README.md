@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
 💻 Profissional de Tecnologia da Informação com **mais de 15 anos de experiência**, atuando no desenvolvimento de soluções corporativas, banco de dados SQL, ERP, automação de processos e Inteligência Artificial aplicada aos negócios.
 
@@ -18,90 +18,128 @@ Atualmente trabalho conectando tecnologia e estratégia, desenvolvendo soluçõe
 
 Também atuo como **Professor e Palestrante**, ministrando treinamentos sobre:
 
-* 🤖 **Inteligência Artificial**
-* 💼 **Google Workspace**
-* 💻 **Informática & Produtividade**
-* 🚀 **Transformação Digital**
+- 🤖 Inteligência Artificial
+- 💼 Google Workspace
+- 💻 Informática
+- 📊 Produtividade
+- 🚀 Transformação Digital
 
 ---
 
-## 🧠 Especialidades
+# 🧠 Especialidades
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0078D4?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-1565C0?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ERP-1976D2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation-1E88E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Business%20Intelligence-42A5F5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ERP-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-42A5F5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-0D47A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Developer-2196F3?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+# 💻 Tecnologias
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,python,java,dotnet,mysql,linux,windows,gcp&perline=6"/>
 
-<br><br>
+<br>
 
-<!-- Ícone Oficial do Visual FoxPro no padrão Skillicons -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Visual_foxpro_logo.png" width="48" height="48" alt="Visual FoxPro" title="Visual FoxPro" style="border-radius: 10px;" />
+<!-- Container para o logo do Visual FoxPro, com o fundo, tamanho e cantos arredondados idênticos ao padrão Skillicons, centralizado abaixo. -->
+<div style="display: inline-block; width: 48px; height: 48px; background-color: #0e1111; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+  <!-- Logo oficial do Visual FoxPro, levemente reduzido para ter padding no container -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Visual_foxpro_logo.png" width="40" height="40" alt="Visual FoxPro" title="Visual FoxPro" />
+</div>
 
 </div>
 
 ---
 
-## 🛠️ Conhecimentos Técnicos
+# 🗄 Banco de Dados
 
-| 🗄️ Banco de Dados | ⚙️ Desenvolvimento & ERP |
-| :--- | :--- |
-| • **SQL Server** | • **Visual FoxPro (VFP)** |
-| • Modelagem de Dados | • SQL & Queries Avançadas |
-| • Performance & Tuning SQL | • Sistemas ERP Corporativos |
-| • Stored Procedures & Views | • Integrações via APIs |
-| • Processos de ETL | • Automação de Processos |
-
-<br>
-
-| 🤖 Inteligência Artificial | 📚 Atualmente Estudando |
-| :--- | :--- |
-| • ChatGPT, Gemini & NotebookLM | • IA Generativa & LLMs |
-| • Google AI Studio | • Multi-Agentes & AI Engineering |
-| • Engenharia de Prompt | • MCP (Model Context Protocol) |
-| • Agentes de IA & RAG | • Automação Inteligente |
-| • MCP (Model Context Protocol) | • Machine Learning Aplicado |
+- SQL Server
+- Modelagem de Dados
+- Performance SQL
+- Procedures
+- Views
+- Tuning
+- ETL
 
 ---
 
-## 🌎 Onde me encontrar
+# ⚙ Desenvolvimento
+
+- Visual FoxPro
+- SQL
+- ERP
+- Integrações
+- Automação de Processos
+
+---
+
+# 🤖 Inteligência Artificial
+
+- ChatGPT
+- Google Gemini
+- NotebookLM
+- Google AI Studio
+- Engenharia de Prompt
+- Agentes de IA
+- MCP (Model Context Protocol)
+- RAG (Retrieval-Augmented Generation)
+
+---
+
+# 📚 Atualmente estudando
+
+- IA Generativa
+- Multi Agentes
+- LLMs
+- MCP
+- Machine Learning
+- Automação Inteligente
+- Integração de APIs
+- AI Engineering
+
+---
+
+# 🌎 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-razaboni-%C3%A2ngelo-68a322115/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/guilhermerazaboni/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/guilherme-razaboni-%C3%A2ngelo-68a322115/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/guilhermerazaboni/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 💡 Filosofia
+# 💡 Filosofia
 
-> *"A tecnologia gera valor quando simplifica processos, conecta pessoas e transforma conhecimento em resultados."*
+> **"A tecnologia gera valor quando simplifica processos, conecta pessoas e transforma conhecimento em resultados."**
 
 ---
 
 <div align="center">
 
-### 🚀 Sempre aberto para colaborar em projetos envolvendo:
+### 🚀 Sempre aberto para colaborar em projetos envolvendo
 
-🤖 **Inteligência Artificial** • 🗄 **Banco de Dados** • ⚙ **ERP** • 📊 **BI** • 🚀 **Automação**
+🤖 Inteligência Artificial • 🗄 Banco de Dados • ⚙ ERP • 📊 Business Intelligence • 🚀 Automação • 💻 Desenvolvimento
 
 <br>
 
