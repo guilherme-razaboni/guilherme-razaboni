@@ -72,7 +72,6 @@ Também atuo como **Professor e Palestrante**, ministrando treinamentos sobre:
 - Visual FoxPro
 - SQL
 - ERP
-- APIs
 - Integrações
 - Automação de Processos
 
@@ -101,18 +100,6 @@ Também atuo como **Professor e Palestrante**, ministrando treinamentos sobre:
 - Automação Inteligente
 - Integração de APIs
 - AI Engineering
-
----
-
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=guilherme-razaboni&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-razaboni&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
 
 ---
 
