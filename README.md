@@ -1,93 +1,155 @@
-# Olá, eu sou o Guilherme Razaboni! 👋
+ <div align="center">
 
-### Especialista em Tecnologia da Informação | Inteligência Artificial | SQL | ERP | Automação
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B3D91,50:1976D2,100:64B5F6&text=Guilherme%20Razaboni&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Especialista%20em%20Tecnologia%20|%20IA%20|%20SQL%20|%20ERP%20|%20Automação&descAlignY=58"/>
 
-Atuo há mais de **15 anos** na área de Tecnologia da Informação, desenvolvendo soluções para ERP, banco de dados, automação de processos e Inteligência Artificial aplicada ao ambiente corporativo.
+# 👋 Olá, eu sou o Guilherme Razaboni
 
-Atualmente trabalho na criação de soluções que conectam tecnologia e negócio, utilizando desenvolvimento, análise de dados e IA para aumentar a produtividade e apoiar a tomada de decisões.
+### Especialista em Tecnologia da Informação • Inteligência Artificial • SQL • ERP • Automação
 
-Além da atuação técnica, sou **Professor e Palestrante**, ministrando treinamentos sobre Inteligência Artificial, Informática, Google Workspace e transformação digital para colaboradores e líderes.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=900&lines=+15+anos+transformando+tecnologia+em+resultados;Especialista+em+Banco+de+Dados+SQL;Professor+e+Palestrante+em+IA;Desenvolvedor+de+Soluções+ERP;Automação+de+Processos;Business+Intelligence"/>
 
----
-
-## 🚀 Especialidades
-
-- 🤖 Inteligência Artificial Aplicada
-- 💻 Desenvolvimento de Sistemas
-- 🗄️ Banco de Dados SQL
-- 📊 Business Intelligence
-- ⚙️ ERP Processes
-- 🔄 Automação de Processos
-- 📡 Gestão de Telecomunicações
-- 👨‍🏫 Professor em Computação
-- 🎤 Palestrante em Tecnologia
-- ☁️ Google Workspace
+</div>
 
 ---
 
-## 🛠️ Tecnologias
+# 🚀 Sobre mim
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,cs,dotnet,python,java,mysql,sqlite,linux,windows,cloudflare,gcp" />
+💻 Profissional de Tecnologia da Informação com **mais de 15 anos de experiência**, atuando no desenvolvimento de soluções corporativas, banco de dados SQL, ERP, automação de processos e Inteligência Artificial aplicada aos negócios.
+
+Atualmente trabalho conectando tecnologia e estratégia, desenvolvendo soluções que simplificam processos, aumentam a produtividade e apoiam a tomada de decisões.
+
+Também atuo como **Professor e Palestrante**, ministrando treinamentos sobre:
+
+- 🤖 Inteligência Artificial
+- 💼 Google Workspace
+- 💻 Informática
+- 📊 Produtividade
+- 🚀 Transformação Digital
+
+---
+
+# 🧠 Especialidades
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ERP-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-42A5F5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-0D47A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Developer-2196F3?style=for-the-badge"/>
+
 </p>
 
-### Banco de Dados
+---
+
+# 💻 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,python,java,dotnet,mysql,linux,windows,gcp&perline=6"/>
+
+</div>
+
+---
+
+# 🗄 Banco de Dados
 
 - SQL Server
 - Modelagem de Dados
 - Performance SQL
+- Procedures
+- Views
+- Tuning
+- ETL
 
-### Desenvolvimento
+---
+
+# ⚙ Desenvolvimento
 
 - Visual FoxPro
 - SQL
-- APIs
 - ERP
-- Automação
+- APIs
+- Integrações
+- Automação de Processos
 
-### Inteligência Artificial
+---
 
-- Google Gemini
+# 🤖 Inteligência Artificial
+
 - ChatGPT
+- Google Gemini
 - NotebookLM
 - Google AI Studio
-- Agentes de IA
-- RAG (Retrieval-Augmented Generation)
 - Engenharia de Prompt
+- Agentes de IA
+- MCP (Model Context Protocol)
+- RAG (Retrieval-Augmented Generation)
 
 ---
 
-## 📈 Atualmente estudando
+# 📚 Atualmente estudando
 
 - IA Generativa
-- Agentes Inteligentes
-- MCP (Model Context Protocol)
+- Multi Agentes
+- LLMs
+- MCP
 - Machine Learning
-- Automação com IA
-- Integração de LLMs
+- Automação Inteligente
+- Integração de APIs
+- AI Engineering
 
 ---
 
-## 🌎 Onde me encontrar
+# 📊 Estatísticas
 
-💼 **LinkedIn**
+<div align="center">
 
-[linkedin.com/in/guilherme-razaboni-ângelo-68a322115](https://www.linkedin.com/in/guilherme-razaboni-%C3%A2ngelo-68a322115)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=guilherme-razaboni&show_icons=true&theme=github_dark&hide_border=true"/>
 
-📷 **Instagram**
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-razaboni&layout=compact&theme=github_dark&hide_border=true"/>
 
-[@guilhermerazaboni](https://www.instagram.com/guilhermerazaboni/)
-
-📘 **Facebook**
-
-https://www.facebook.com/
+</div>
 
 ---
 
-## 💡 Frase
+# 🌎 Contato
 
-> "A tecnologia gera valor quando simplifica processos, conecta pessoas e transforma conhecimento em resultados."
+<p align="center">
+
+<a href="https://www.linkedin.com/in/guilherme-razaboni-%C3%A2ngelo-68a322115/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/guilhermerazaboni/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-⭐ Sempre aberto para colaborar em projetos envolvendo Inteligência Artificial, Banco de Dados, ERP, Automação e Desenvolvimento de Soluções.
+# 💡 Filosofia
+
+> **"A tecnologia gera valor quando simplifica processos, conecta pessoas e transforma conhecimento em resultados."**
+
+---
+
+<div align="center">
+
+### 🚀 Sempre aberto para colaborar em projetos envolvendo
+
+🤖 Inteligência Artificial • 🗄 Banco de Dados • ⚙ ERP • 📊 Business Intelligence • 🚀 Automação • 💻 Desenvolvimento
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64B5F6,50:1976D2,100:0B3D91&height=120&section=footer"/>
+
+</div>
