@@ -47,7 +47,7 @@ Também atuo como **Professor e Palestrante**, ministrando treinamentos sobre:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,python,java,dotnet,mysql,linux,windows,gcp&perline=6"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,java,dotnet,mysql,linux,windows,gcp&perline=6"/>
 
 </div>
 
