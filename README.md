@@ -34,8 +34,6 @@ Além da atuação técnica, sou **Professor e Palestrante**, ministrando treina
 ### Banco de Dados
 
 - SQL Server
-- MySQL
-- SQLite
 - Modelagem de Dados
 - Performance SQL
 
@@ -67,14 +65,6 @@ Além da atuação técnica, sou **Professor e Palestrante**, ministrando treina
 - Machine Learning
 - Automação com IA
 - Integração de LLMs
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilherme-razaboni&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-razaboni&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
