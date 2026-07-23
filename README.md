@@ -38,7 +38,7 @@ Atuo como **Professor e Palestrante**, conectando tecnologia e estratégia para 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mysql,windows,gcp&perline=6"/>
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,mysql,windows,gcp&perline=6"/>
 
 <br><br>
 
