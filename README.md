@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:021526,35:03346E,70:0A5EB0,100:4DA8DA&text=Guilherme%20Razaboni&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Especialista%20em%20Tecnologia%20|%20IA%20|%20SQL%20|%20ERP%20|%20Automação&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:021526,35:03346E,70:0A5EB0,100:4DA8DA&text=Guilherme%20Razaboni&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Especialista%20em%20Tecnologia%20|%20IA%20|%20SQL%20|%20ERP%20|%20Automa%C3%A7%C3%A3o&descAlignY=58"/>
 
 # 👋 Olá, eu sou o Guilherme Razaboni
 
@@ -10,7 +10,7 @@
 
 ---
 
-# 🚀 Sobre mim
+## 🚀 Sobre mim
 
 💻 Profissional de Tecnologia da Informação com **mais de 15 anos de experiência**, atuando no desenvolvimento de soluções corporativas, banco de dados SQL, ERP, automação de processos e Inteligência Artificial aplicada aos negócios.
 
@@ -18,120 +18,90 @@ Atualmente trabalho conectando tecnologia e estratégia, desenvolvendo soluçõe
 
 Também atuo como **Professor e Palestrante**, ministrando treinamentos sobre:
 
-- 🤖 Inteligência Artificial
-- 💼 Google Workspace
-- 💻 Informática
-- 📊 Produtividade
-- 🚀 Transformação Digital
+* 🤖 **Inteligência Artificial**
+* 💼 **Google Workspace**
+* 💻 **Informática & Produtividade**
+* 🚀 **Transformação Digital**
 
 ---
 
-# 🧠 Especialidades
+## 🧠 Especialidades
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-1565C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ERP-1976D2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-1E88E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business%20Intelligence-42A5F5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database-0D47A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Developer-2196F3?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0078D4?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-1565C0?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ERP-1976D2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-1E88E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business%20Intelligence-42A5F5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 ---
 
-# 💻 Tecnologias
+## 💻 Tecnologias & Ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,java,dotnet,mysql,linux,windows,gcp&perline=6"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,python,java,dotnet,mysql,linux,windows,gcp&perline=6"/>
+
+<br>
+
+<!-- Badge Especial para Visual FoxPro -->
+<img src="https://img.shields.io/badge/Visual_FoxPro-E4532B?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Visual FoxPro" />
 
 </div>
 
 ---
 
-# 🗄 Banco de Dados
+## 🛠️ Conhecimentos Técnicos
 
-- SQL Server
-- Modelagem de Dados
-- Performance SQL
-- Procedures
-- Views
-- Tuning
-- ETL
+| 🗄️ Banco de Dados | ⚙️ Desenvolvimento & ERP |
+| :--- | :--- |
+| • **SQL Server** | • **Visual FoxPro (VFP)** |
+| • Modelagem de Dados | • SQL & Queries Avancadas |
+| • Performance & Tuning SQL | • Sistemas ERP Corporativos |
+| • Stored Procedures & Views | • Integrações via APIs |
+| • Processos de ETL | • Automação de Processos |
 
----
+<br>
 
-# ⚙ Desenvolvimento
-
-- Visual FoxPro
-- SQL
-- ERP
-- Integrações
-- Automação de Processos
-
----
-
-# 🤖 Inteligência Artificial
-
-- ChatGPT
-- Google Gemini
-- NotebookLM
-- Google AI Studio
-- Engenharia de Prompt
-- Agentes de IA
-- MCP (Model Context Protocol)
-- RAG (Retrieval-Augmented Generation)
+| 🤖 Inteligência Artificial | 📚 Atualmente Estudando |
+| :--- | :--- |
+| • ChatGPT, Gemini & NotebookLM | • IA Generativa & LLMs |
+| • Google AI Studio | • Multi-Agentes & AI Engineering |
+| • Engenharia de Prompt | • MCP (Model Context Protocol) |
+| • Agentes de IA & RAG | • Automação Inteligente |
+| • MCP (Model Context Protocol) | • Machine Learning Aplicado |
 
 ---
 
-# 📚 Atualmente estudando
-
-- IA Generativa
-- Multi Agentes
-- LLMs
-- MCP
-- Machine Learning
-- Automação Inteligente
-- Integração de APIs
-- AI Engineering
-
----
-
-# 🌎 Contato
+## 🌎 Onde me encontrar
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/guilherme-razaboni-%C3%A2ngelo-68a322115/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.instagram.com/guilhermerazaboni/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/guilherme-razaboni-%C3%A2ngelo-68a322115/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/guilhermerazaboni/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 💡 Filosofia
+## 💡 Filosofia
 
-> **"A tecnologia gera valor quando simplifica processos, conecta pessoas e transforma conhecimento em resultados."**
+> *"A tecnologia gera valor quando simplifica processos, conecta pessoas e transforma conhecimento em resultados."*
 
 ---
 
 <div align="center">
 
-### 🚀 Sempre aberto para colaborar em projetos envolvendo
+### 🚀 Sempre aberto para colaborar em projetos envolvendo:
 
-🤖 Inteligência Artificial • 🗄 Banco de Dados • ⚙ ERP • 📊 Business Intelligence • 🚀 Automação • 💻 Desenvolvimento
+🤖 **Inteligência Artificial** • 🗄 **Banco de Dados** • ⚙ **ERP** • 📊 **BI** • 🚀 **Automação**
 
 <br>
 
