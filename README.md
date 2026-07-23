@@ -38,14 +38,9 @@ Atuo como **Professor e Palestrante**, conectando tecnologia e estratégia para 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,python,java,dotnet,mysql,linux,windows,gcp&perline=6"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,java,dotnet,mysql,linux,windows,gcp&perline=6"/>
 
 <br><br>
-
-<!-- Logo Oficial do Visual FoxPro -->
-<a href="https://github.com/topics/visual-foxpro" target="_blank" title="Visual FoxPro">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-foxpro/visual-foxpro.png" width="48" height="48" alt="Visual FoxPro" style="border-radius: 10px;" />
-</a>
 
 </div>
 
