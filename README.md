@@ -44,10 +44,10 @@ Também atuo como **Professor e Palestrante**, ministrando treinamentos sobre:
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,python,java,dotnet,mysql,linux,windows,gcp&perline=6"/>
 
-<br>
+<br><br>
 
-<!-- Badge Especial para Visual FoxPro -->
-<img src="https://img.shields.io/badge/Visual_FoxPro-E4532B?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Visual FoxPro" />
+<!-- Ícone Oficial do Visual FoxPro no padrão Skillicons -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Visual_foxpro_logo.png" width="48" height="48" alt="Visual FoxPro" title="Visual FoxPro" style="border-radius: 10px;" />
 
 </div>
 
@@ -58,7 +58,7 @@ Também atuo como **Professor e Palestrante**, ministrando treinamentos sobre:
 | 🗄️ Banco de Dados | ⚙️ Desenvolvimento & ERP |
 | :--- | :--- |
 | • **SQL Server** | • **Visual FoxPro (VFP)** |
-| • Modelagem de Dados | • SQL & Queries Avancadas |
+| • Modelagem de Dados | • SQL & Queries Avançadas |
 | • Performance & Tuning SQL | • Sistemas ERP Corporativos |
 | • Stored Procedures & Views | • Integrações via APIs |
 | • Processos de ETL | • Automação de Processos |
