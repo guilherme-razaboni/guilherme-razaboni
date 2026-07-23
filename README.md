@@ -6,7 +6,7 @@
 
 ### Especialista em Tecnologia da Informação • Inteligência Artificial • SQL • ERP • Automação
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=900&lines=+15+anos+transformando+tecnologia+em+resultados;Especialista+em+Banco+de+Dados+SQL;Professor+e+Palestrante+em+IA;Desenvolvedor+de+Soluções+ERP;Automação+de+Processos;Business+Intelligence"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:021526,35:03346E,70:0A5EB0,100:4DA8DA&text=Guilherme%20Razaboni&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Especialista%20em%20Tecnologia%20|%20IA%20|%20SQL%20|%20ERP%20|%20Automação&descAlignY=58"/>
 
 </div>
 
