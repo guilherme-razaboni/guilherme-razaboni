@@ -1,12 +1,10 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B3D91,50:1976D2,100:64B5F6&text=Guilherme%20Razaboni&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Especialista%20em%20Tecnologia%20|%20IA%20|%20SQL%20|%20ERP%20|%20Automação&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:021526,35:03346E,70:0A5EB0,100:4DA8DA&text=Guilherme%20Razaboni&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Especialista%20em%20Tecnologia%20|%20IA%20|%20SQL%20|%20ERP%20|%20Automação&descAlignY=58"/>
 
 # 👋 Olá, eu sou o Guilherme Razaboni
 
 ### Especialista em Tecnologia da Informação • Inteligência Artificial • SQL • ERP • Automação
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:021526,35:03346E,70:0A5EB0,100:4DA8DA&text=Guilherme%20Razaboni&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Especialista%20em%20Tecnologia%20|%20IA%20|%20SQL%20|%20ERP%20|%20Automação&descAlignY=58"/>
 
 </div>
 
