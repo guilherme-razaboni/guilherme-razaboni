@@ -5,7 +5,7 @@
 
 # 👋 Olá, eu sou o Guilherme Razaboni
 
-### Especialista em TI • Inteligência Artificial • SQL • ERP •
+### Especialista em TI • Inteligência Artificial • SQL • ERP • Desenvolvedor
 
 </div>
 
